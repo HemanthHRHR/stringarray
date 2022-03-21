@@ -1,0 +1,4 @@
+DB_Driver_Class=com.mysql.jdbc.driver
+Db_Url=jdbc:mysql://localhost:3306/payroll
+Db_Username=root
+Db_Password=1234

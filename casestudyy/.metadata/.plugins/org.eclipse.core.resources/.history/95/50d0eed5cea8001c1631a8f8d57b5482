@@ -1,0 +1,25 @@
+package com.te.java8;
+
+import java.util.ArrayList;
+import java.util.*;
+
+public class Demo {
+
+	int id;
+	String name;
+	double cost;
+
+	public Demo(int id, String name, double cost) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.cost = cost;
+	}
+
+	public static void main(String[] args) {
+		        List<Integer> list = new ArrayList<Integer>();
+                      list.add(new Demo(1, "hemanth", 343.35));
+                      list.forEach(a->System.out.println(a));
+ 	}
+
+}

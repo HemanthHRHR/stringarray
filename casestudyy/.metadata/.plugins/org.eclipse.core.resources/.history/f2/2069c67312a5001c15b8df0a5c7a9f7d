@@ -1,0 +1,15 @@
+package com.te.comparetwoarraylist;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class ArraytoArraylist {
+
+	public static void main(String[] args) {
+		String arr[]= {"a","b","c","d","e"};
+		List<String> list = Arrays.asList(arr);
+		System.out.println(list);
+
+	}
+
+}

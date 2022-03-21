@@ -1,0 +1,12 @@
+package com.te.treelist;
+import java.util.*;
+
+public class TreeSet {
+
+	public static void main(String[] args) {
+	
+		
+
+	}
+
+}

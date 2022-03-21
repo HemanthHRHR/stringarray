@@ -1,0 +1,306 @@
+2022-03-09 11:16:20,916 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-09 11:20:14,563 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\pom.xml
+2022-03-09 11:20:17,256 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.te.casestudy:jdbccases:0.0.1-SNAPSHOT @ C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\pom.xml.
+2022-03-09 11:20:17,812 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbccases/src/main/java
+2022-03-09 11:20:17,842 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbccases/src/test/java
+2022-03-09 11:20:20,749 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2022-03-09 11:20:23,292 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:20:23,293 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:20:23,308 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:20:23,308 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:21:31,488 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.te.casestudy:jdbccases:0.0.1-SNAPSHOT @ C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\pom.xml.
+2022-03-09 11:21:34,892 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:21:34,893 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:21:34,902 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:21:34,903 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:21:36,941 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:21:36,943 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:21:36,950 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:21:36,951 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:22:06,473 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:22:06,474 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:22:06,479 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:22:06,492 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:25:20,240 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:25:20,241 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:25:20,249 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:25:20,249 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:27:14,984 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:27:14,985 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:27:14,989 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:27:14,990 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:28:11,365 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:28:11,365 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:28:11,371 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:28:11,371 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:29:27,883 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:29:27,885 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:29:27,978 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:29:27,979 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:41:55,581 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:41:55,583 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:41:55,590 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:41:55,590 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:43:36,888 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:43:36,889 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:43:36,893 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:43:36,893 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:45:22,659 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:45:22,660 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:45:22,663 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:45:22,664 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:45:47,537 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:45:47,540 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:45:47,544 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:45:47,545 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:46:39,225 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:46:39,226 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:46:39,229 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:46:39,231 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:47:05,601 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:47:05,602 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:47:05,606 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:47:05,607 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:47:38,692 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:47:38,698 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:47:38,708 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:47:38,709 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:47:57,070 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:47:57,071 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:47:57,083 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:47:57,083 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:52:03,758 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:52:03,761 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:52:03,770 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:52:03,770 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:52:06,794 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:52:06,836 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:52:06,854 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:52:06,854 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:52:18,519 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:52:18,520 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:52:18,526 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:52:18,527 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:52:28,037 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:52:28,038 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:52:28,042 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:52:28,042 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:52:40,385 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:52:40,386 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:52:40,389 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:52:40,389 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:54:54,218 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:54:54,221 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:54:54,225 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:54:54,225 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 11:56:55,414 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:56:55,431 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 11:56:55,438 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 11:56:55,438 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 12:03:21,966 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:03:21,968 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 12:03:21,973 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:03:21,974 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 12:12:51,654 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:12:51,655 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 12:12:51,661 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:12:51,662 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 12:13:15,788 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:13:15,788 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 12:13:15,791 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:13:15,791 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 12:19:08,593 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:19:08,594 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 12:19:08,601 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:19:08,604 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 12:21:03,570 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:21:03,571 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 12:21:03,574 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:21:03,574 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 12:21:22,527 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:21:22,528 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 12:21:22,531 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:21:22,531 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 12:22:47,128 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-09 12:22:48,415 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.te.casestudy:jdbccases:0.0.1-SNAPSHOT @ C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\pom.xml.
+2022-03-09 12:22:50,677 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbccases/src/main/java
+2022-03-09 12:22:50,680 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbccases/src/test/java
+2022-03-09 12:22:51,672 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-03-09 12:22:54,277 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:22:54,278 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 12:22:54,286 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:22:54,287 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 12:24:26,279 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:24:26,281 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 12:24:26,284 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:24:26,284 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 12:29:13,823 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:29:13,832 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\main\resources
+2022-03-09 12:29:13,838 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 12:29:13,839 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbccases\src\test\resources
+2022-03-09 15:23:38,372 [Worker-33: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\pom.xml
+2022-03-09 15:23:38,557 [Worker-33: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.te..jdbc:jdbc:0.0.1-SNAPSHOT @ C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\pom.xml.
+2022-03-09 15:23:38,709 [Worker-33: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbc/src/main/java
+2022-03-09 15:23:38,732 [Worker-33: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbc/src/test/java
+2022-03-09 15:23:38,933 [Worker-33: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-03-09 15:23:39,932 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:23:39,934 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 15:23:39,937 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:23:39,938 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 15:25:03,570 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:25:03,571 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 15:25:03,574 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:25:03,575 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 15:31:28,402 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:31:28,403 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 15:31:28,408 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:31:28,409 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 15:31:31,376 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:31:31,377 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 15:31:31,383 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:31:31,384 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 15:33:28,698 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.te..jdbc:jdbc:0.0.1-SNAPSHOT @ C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\pom.xml.
+2022-03-09 15:33:28,905 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:33:28,905 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 15:33:28,908 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:33:28,911 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 15:33:30,477 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:33:30,478 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 15:33:30,481 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:33:30,481 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 15:41:29,025 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:41:29,026 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 15:41:29,032 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:41:29,032 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 15:47:34,164 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:47:34,166 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 15:47:34,172 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:47:34,172 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 15:47:51,718 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:47:51,719 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 15:47:51,722 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:47:51,722 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 15:48:48,554 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:48:48,555 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 15:48:48,559 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:48:48,559 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 15:50:41,802 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:50:41,805 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 15:50:41,832 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:50:41,833 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 15:52:13,519 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:52:13,520 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 15:52:13,523 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:52:13,545 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 15:53:36,549 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:53:36,549 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 15:53:36,554 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:53:36,554 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 15:53:45,136 [Worker-60: Launching Crid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:53:45,137 [Worker-60: Launching Crid] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 15:53:45,139 [Worker-60: Launching Crid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:53:45,139 [Worker-60: Launching Crid] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 15:53:52,673 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:53:52,674 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 15:53:52,677 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:53:52,677 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 15:59:31,942 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:59:31,943 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 15:59:31,947 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 15:59:31,948 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 16:00:51,798 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 16:00:51,800 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 16:00:51,802 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 16:00:51,803 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 16:01:29,553 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 16:01:29,554 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 16:01:29,557 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 16:01:29,558 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 16:03:53,432 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 16:03:53,433 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 16:03:53,435 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 16:03:53,435 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 16:05:09,238 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 16:05:09,238 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 16:05:09,242 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 16:05:09,243 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 16:06:04,948 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 16:06:04,949 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 16:06:04,951 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 16:06:04,951 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 16:46:48,656 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 16:46:48,658 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 16:46:48,660 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 16:46:48,661 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 16:48:38,650 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 16:48:38,651 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 16:48:38,655 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 16:48:38,656 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 17:04:46,842 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 17:04:46,843 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 17:04:46,847 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 17:04:46,847 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 17:05:48,219 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 17:05:48,220 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 17:05:48,222 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 17:05:48,222 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 17:34:48,525 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 17:34:48,526 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 17:34:48,530 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 17:34:48,531 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-09 18:45:31,681 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 18:45:31,682 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-09 18:45:31,685 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-09 18:45:31,685 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-10 09:33:36,851 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-10 09:33:36,853 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-10 09:33:36,868 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-10 09:33:36,869 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-10 09:40:02,711 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-10 09:40:02,713 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-10 09:40:02,718 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-10 09:40:02,719 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-10 10:51:27,873 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-10 10:51:27,874 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-10 10:51:27,878 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-10 10:51:27,879 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-10 10:52:20,446 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-10 10:52:20,447 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-10 10:52:20,449 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-10 10:52:20,450 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-10 11:16:31,772 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-10 11:16:31,773 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-10 11:16:31,777 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-10 11:16:31,777 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-10 11:21:03,113 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-10 11:21:03,114 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-10 11:21:03,139 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-10 11:21:03,141 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-10 11:22:38,333 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-10 11:22:38,333 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-10 11:22:38,335 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-10 11:22:38,336 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-11 11:57:51,973 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-11 11:59:04,001 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-11 11:59:04,001 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-11 11:59:04,008 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-11 11:59:04,009 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-11 11:59:54,962 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-11 11:59:54,963 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-11 11:59:54,971 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-11 11:59:54,971 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-11 12:00:18,707 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-11 12:00:18,708 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-11 12:00:18,711 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-11 12:00:18,712 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-11 12:00:33,952 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-11 12:00:33,953 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\main\resources
+2022-03-11 12:00:33,958 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-11 12:00:33,959 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-java-2021-09-R-win32-x86_64\eclipse\casestudyy\jdbc\src\test\resources
+2022-03-12 09:27:59,600 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-14 09:17:11,302 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-15 09:29:56,988 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-17 09:37:14,366 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-17 09:37:35,846 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2022-03-18 15:37:50,404 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-21 09:28:34,139 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

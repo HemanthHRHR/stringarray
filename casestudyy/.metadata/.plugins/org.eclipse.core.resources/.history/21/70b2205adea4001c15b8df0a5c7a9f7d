@@ -1,0 +1,12 @@
+package com.te.multiplecatchblock;
+
+public class Multiplecatch {
+	public static void main(String[] args) {
+		try {
+	
+		int a1=0/10;
+		}catch(ArithmeticException e) {
+			e.printStackTrace();
+		}
+	}
+}

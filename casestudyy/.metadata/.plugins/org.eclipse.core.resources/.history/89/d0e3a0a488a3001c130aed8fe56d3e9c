@@ -1,0 +1,21 @@
+package com.te.comparetwoarraylist;
+
+import java.util.ArrayList;
+
+public class Arraylisttt {
+
+	public static void main(String[] args) {
+		ArrayList<Integer> list = new ArrayList<Integer>();
+		list.add(1);
+		list.add(2);
+		list.add(3);
+		System.out.println(list);
+		ArrayList<Integer> list2 = new ArrayList<Integer>();
+        list2.add(1);
+        list2.add(3);
+        list2.add(4);
+        System.out.println(list2);
+       // System.out.println(list.eq);
+	}
+
+}

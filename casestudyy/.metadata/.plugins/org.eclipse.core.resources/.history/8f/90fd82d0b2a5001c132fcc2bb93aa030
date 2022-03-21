@@ -1,0 +1,31 @@
+package com.te.lemkedlist;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Set;
+
+public class Removedulipacatewords {
+	public static void main(String[] args) 
+    { 
+        System.out.print("\n1st: "); 
+        FindOut("Quora is a forum"); 
+        System.out.print("\n2nd: "); 
+        FindOut("HashMap and Set"); 
+    } 
+    public static void FindOut(String str) 
+    { 
+        Map<Character,Integer> map=new HashMap<Character,Integer>(); 
+        char[] charArray=str.toCharArray(); 
+        for(Character ch:charArray) 
+        { 
+            if(map.containsKey(ch)) 
+              map.put(ch,map.get(ch)+1); 
+            else  
+              map.put(ch,1); 
+        } 
+        Set<Character> keys = map.keySet();   
+        for(Character ch:keys)   
+            if (map.get(ch) > 1)  
+                System.out.print("-("+ch+")");   
+    } 
+} 

@@ -1,0 +1,25 @@
+package com.te.lemkedlist;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.LinkedHashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+
+public class Removedulipacatewords {
+	public static void main(String args[]) {
+		String s ="hemanth is dancer dancer is hemanth He-Mantis";
+		String[] split = s.split(" ");
+		Map<String, Integer> map = new HashMap<String, Integer>();
+		for (String s1 : split) {
+			if(map.containsKey(s1)) {
+				map.put(s1, map.get(s1)+1);
+			}
+		}
+		
+	}
+}
+	

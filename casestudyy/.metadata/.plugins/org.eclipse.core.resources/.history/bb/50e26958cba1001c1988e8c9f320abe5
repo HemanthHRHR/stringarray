@@ -1,0 +1,17 @@
+package com.te.string.program;
+
+import java.util.Scanner;
+
+public class Vowels {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("enetr the vowels");
+		String s = sc.nextLine();
+		if(s.charAt(0)=='a' || s.charAt(0)=='e'|| s.charAt(0)=='i'||s.charAt(0)=='o'||s.charAt(0)=='u') {
+			System.out.println(s.charAt(0));
+		}
+
+	}
+
+}

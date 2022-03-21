@@ -1,0 +1,10 @@
+package com.te.string.program;
+
+public class UserMainnCode {
+
+	public static char[] getmiddlechar(String str) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

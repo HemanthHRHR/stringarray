@@ -1,0 +1,19 @@
+package Com.te.logicprogram;
+
+public class Leapyaer {
+
+	public static void main(String[] args) {
+		int year = 1996;
+		boolean leap = false;
+		if (year % 4 == 0) {
+			if (year % 100 == 0) {
+				if (year % 400 == 0) {
+					
+
+				}
+			}
+		}
+
+	}
+
+}
